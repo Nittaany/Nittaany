@@ -59,16 +59,6 @@ const satyamChaudhary = {
   identity: {
     role: "Full-Stack Web Developer & Cloud Engineer",
     specialization: ["End-to-End Systems", "DevOps Automation", "AI/ML Integration"],
-    mantra: "Code is poetry. Infrastructure is art. Deployment is performance."
-  },
-  
-  currentMission: {
-    project: "Webcam-Based Dual-Mode Hand Gesture Interface for Computer Control
-              and
-              Indian Sign Language Expression",
-    impact: "Empowering inclusive communication and accessibility for all groups, including individuals
-            with speech and motor impairments.",
-    technologies: ["MediaPipe", "OpenCV", "Python",]
   },
   
   education: {
@@ -87,24 +77,16 @@ const satyamChaudhary = {
     devops: ["CI/CD Pipelines", "Infrastructure as Code", "Container Orchestration"]
   },
   
-  stats: {
-    projects_Deployed: 15,
-    hackathons_Organized: 5,
-    participants_joined: 2500,
-  },
-  
   availability: {
     roles: ["Software Development Engineer", "Full-Stack Developer", "DevOps Engineer"],
     openTo: ["Full-Time", "Internship", "PPO Opportunities"],
     joining: "Immediate",
     relocation: "Anywhere",
-    compensation: "Competitive + Growth"
   },
   
   contact: {
     email: "nitantsatyam123@gmail.com",
     portfolio: "https://satyamchaudhary.com.np",
-    timezone: "IST (GMT+5:30)",
   }
 };
 
