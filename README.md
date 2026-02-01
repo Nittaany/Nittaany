@@ -106,7 +106,7 @@ satyamChaudhary.deploy();
 <sub>React • Next.js • Node.js • Express</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHIwdnVtbG11cjdiYnM2cGlueHI2NGV0eHFqd2UzcWR6ODNwY21oMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7ZeqkYTvaL3lGjCw/giphy.gif" width="80"><br>
 <b>Cloud & DevOps</b><br>
 <sub>AWS • Docker • Jenkins • Terraform</sub>
 </td>
