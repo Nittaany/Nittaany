@@ -50,7 +50,7 @@
 <!-- Cinematic About Section with Code Block -->
 <div align="center">
 
-### ⚡ **SYSTEM PROFILE LOADED** ⚡
+### < > **whoami** </>
 
 </div>
 
@@ -58,7 +58,7 @@
 const satyamChaudhary = {
   identity: {
     role: "Full-Stack Web Developer & Cloud Engineer",
-    specialization: ["End-to-End Systems", "DevOps Automation", "AI/ML Integration"],
+    specialization: ["Web Development", "End-to-End Systems", "DevOps Automation", "AI/ML Integration"],
   },
   
   education: {
@@ -101,7 +101,7 @@ satyamChaudhary.deploy();
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="80"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
 <b>Full-Stack Mastery</b><br>
 <sub>React • Next.js • Node.js • Express</sub>
 </td>
@@ -122,10 +122,8 @@ satyamChaudhary.deploy();
 </td>
 </tr>
 </table>
-
 </div>
 
----
 
 <!-- Premium Neon Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
