@@ -23,26 +23,30 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-<!-- Elite Social Connect Bar -->
+
+<!-- Professional Contact Bar -->
 <p align="center">
   <a href="mailto:nitantsatyam123@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=EA4335"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://satyamchaudhary.com.np">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000&color=00D9FF"/>
+    <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/SATYAM-c">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=0A66C2"/>
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Nittaany">
-    <img src="https://img.shields.io/badge/⚡_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00D9FF"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<!-- Elite Metrics Dashboard -->
+<!-- Clean Metrics Bar -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_To_Work-00FF00?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000"/>
-  <img src="https://komarev.com/ghpvc/?username=Nittaany&label=Profile+Views&color=00D9FF&style=for-the-badge&labelColor=000000"/>
+
+  <img src="https://img.shields.io/badge/Status-Available-00C853?style=flat-square&labelColor=1a1b27"/>
+    <!-- <img src="https://img.shields.io/badge/Experience-2+_Years-EC4899?style=flat-square&labelColor=1a1b27"/> -->
+  <img src="https://img.shields.io/badge/Experience-Fresher-EC4899?style=flat-square&labelColor=1a1b27"/>
+  <img src="https://komarev.com/ghpvc/?username=Nittaany&label=Views&color=blueviolet&style=flat-square"/>
 </p>
 
 
@@ -445,9 +449,9 @@ Impact: Delivered 3 production-ready applications
 <!-- Primary Stats Row -->
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nittaany&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF2E97&text_color=FFFFFF&ring_color=00D9FF&fire=FF2E97&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B949E&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Statistics" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nittaany&theme=midnight-purple&hide_border=true&background=0D1117&ring=00D9FF&fire=FF2E97&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nittaany&theme=tokyonight&hide_border=true&background=1a1b27&ring=A855F7&fire=EC4899&currStreakLabel=EC4899&sideNums=ffffff&currStreakNum=ffffff&dates=8B949E&sideLabels=8B949E" />
 </p>
-
+  
 <!-- Language Distribution & Activity Graph -->
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nittaany&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&custom_title=💻%20Code%20Distribution" />
@@ -469,7 +473,11 @@ Impact: Delivered 3 production-ready applications
 
 ### 🎯 **COMPETITIVE CODING**
 
-<img src="https://leetcard.jacoblin.cool/Satyam_Chaudhary?theme=nord&font=JetBrains%20Mono&ext=contest&border=0&radius=10" width="50%" />
+<!-- LeetCode Stats -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Satyam_Chaudhary?theme=dark&font=JetBrains%20Mono&ext=contest" width="45%" />
+</p>
+
 
 </div>
 
@@ -554,35 +562,40 @@ Contribution: Internal tools & workshops
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
+<!-- Contact Section - Clean and Working -->
 <div align="center">
 
-<table border="0">
+## 📫 Let's Connect
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
+
+**Actively seeking Full-Time SDE roles and Internship opportunities**
+
+</div>
+
+<div align="center">
+
+<table>
 <tr>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" width="60"><br>
-<b>📧 PRIMARY CONTACT</b><br>
-<a href="mailto:nitantsatyam123@gmail.com">nitantsatyam123@gmail.com</a><br>
-<sub>Response: < 12 hours</sub>
+<td align="center" width="225">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="48"><br>
+<b>Email</b><br>
+<a href="mailto:nitantsatyam123@gmail.com">nitantsatyam123@gmail.com</a>
 </td>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60"><br>
-<b>🌐 PORTFOLIO</b><br>
-<a href="https://satyamchaudhary.com.np">satyamchaudhary.com.np</a><br>
-<sub>Live Projects & Case Studies</sub>
+<td align="center" width="225">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdvOGo5NGdwcWI0MnkycWNvMHBvZ2JsdWtvazF1dmtjcmY1NnB2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Kf4K0lSkfgQEIftT4N/giphy.gif" width="48"><br>
+<b>Portfolio</b><br>
+<a href="https://satyamchaudhary.com.np">satyamchaudhary.com.np</a>
 </td>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="60"><br>
-<b>💼 LINKEDIN</b><br>
-<a href="https://linkedin.com/in/SATYAM-c">linkedin.com/in/SATYAM-c</a><br>
-<sub>Professional Network</sub>
+<td align="center" width="225">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="48"><br>
+<b>LinkedIn</b><br>
+<a href="https://linkedin.com/in/SATYAM-c">linkedin.com/in/SATYAM-c</a>
 </td>
-</tr>
-<tr>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"><br>
-<b>⚡ GITHUB</b><br>
-<a href="https://github.com/Nittaany">github.com/Nittaany</a><br>
-<sub>Code Repository</sub>
+<td align="center" width="225">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="48"><br>
+<b>GitHub</b><br>
+<a href="https://github.com/Nittaany">github.com/Nittaany</a>
 </td>
 
 </tr>
@@ -590,7 +603,6 @@ Contribution: Internal tools & workshops
 
 </div>
 
----
 
 <!-- Inspirational Quote -->
 <div align="center">
@@ -604,10 +616,8 @@ Contribution: Internal tools & workshops
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<!-- Premium Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=180&section=footer&animation=fadeIn&fontColor=fff"/>
-</p>
+
+<div align="center">
 
 <!-- Badge Collection -->
 <p align="center">
@@ -616,21 +626,6 @@ Contribution: Internal tools & workshops
   <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
 </p>
 
-<!-- Final CTA -->
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ⭐ Star repositories that inspire you                       ║
-║   🔱 Fork projects that challenge you                         ║
-║   🤝 Connect for collaboration opportunities                  ║
-║   💼 Reach out for full-time positions                        ║
-║                                                               ║
-║          Building The Future, One Commit At A Time            ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
 
 ### **Thanks for visiting! Let's create something extraordinary together.** 🚀✨
 
@@ -639,3 +634,4 @@ Contribution: Internal tools & workshops
 **© 2025 Satyam Chaudhary • Crafted with precision and passion**
 
 </div>
+
