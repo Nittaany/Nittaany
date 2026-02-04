@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ======= Premium Compact Intro Card (Refined) ======= -->
+<!-- Intro Card -->
 <div align="center">
 
 <table cellpadding="10" cellspacing="0" width="90%" style="max-width:980px;">
@@ -90,11 +90,11 @@
 </table>
 
 </div>
-<!-- ======= End Intro Card ======= -->
+<!--  End Intro Card  -->
 
 
 
-<!-- Animated Tech Stack Section -->
+<!--  Tech Stack Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h2 align="center">
@@ -209,20 +209,21 @@
 </td>
 </tr>
 </table>
-
 </div>
+<!-- End Tech Stack -->
+
+
 
 <br>
 
-<!-- Creative Projects Section -->
-<!-- =================== Projects =================== -->
+<!--  Projects Section -->
 
 <h2 align="center">Projects</h2>
 
 <table width="100%" cellpadding="18" cellspacing="0">
 <tr>
 
-<!-- ===== Card 1 ===== -->
+<!--  Card 1  -->
 <td width="50%" valign="top"
 style="border:1px solid rgba(168,85,247,0.25);
 border-radius:14px;">
@@ -250,7 +251,7 @@ Real-time sync · Secure auth · CI/CD · CDN delivery
 
 </td>
 
-<!-- ===== Card 2 ===== -->
+<!--  Card 2  -->
 <td width="50%" valign="top"
 style="border:1px solid rgba(236,72,153,0.25);
 border-radius:14px;">
@@ -279,7 +280,7 @@ Webcam-based · Low latency · Temporal modeling
 
 </tr>
 </table>
-<!-- ===== Secondary Projects ===== -->
+<!--  Secondary Projects  -->
 <table width="100%" cellpadding="14">
 <tr>
 
@@ -313,12 +314,12 @@ OCR-based document intelligence system.<br><br>
 </tr>
 </table>
 
-<!-- ================= End Projects ================= -->
+<!--  End Project  -->
 
 
 <br>
 
-<!-- Experience Section with Cards -->
+<!-- Experience Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h2 align="center">
@@ -376,56 +377,41 @@ OCR-based document intelligence system.<br><br>
 
 <!-- GitHub Stats Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
   GITHUB ANALYTICS
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
 </h3>
-
-<!-- ================= Stats + Activity ================= -->
-
 <div align="center" style="max-width:900px;margin:auto;">
-
-<!-- Row 1: Streak | Activity -->
 <table width="100%" cellpadding="10" cellspacing="0" style="margin-bottom:24px;">
 <tr>
-
 <td width="50%" align="center" valign="top"
 style="border-radius:12px;border:1px solid rgba(168,85,247,0.20);
 box-shadow:0 8px 20px rgba(168,85,247,0.10);padding:18px;">
-
 <p style="margin:0 0 10px 0;font-weight:600;color:#A78BFA;">
 GitHub Contribution Streak
 </p>
-
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=Nittaany&theme=radical&hide_border=true&background=0d1117&ring=A855F7&fire=EC4899&currStreakLabel=EC4899"
   width="90%"
   alt="GitHub Streak Stats"/>
 </td>
-
 <td width="50%" align="center" valign="top"
 style="border-radius:12px;border:1px solid rgba(236,72,153,0.20);
 box-shadow:0 8px 20px rgba(236,72,153,0.10);padding:18px;">
-
 <p style="margin:0 0 10px 0;font-weight:600;color:#F472B6;">
 GitHub Activity
 </p>
-
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Nittaany&bg_color=0d1117&color=ffffff&line=A855F7&point=EC4899&area=true&hide_border=true"
   width="90%"
   alt="GitHub Activity Graph"/>
 </td>
-
 </tr>
 </table>
 
-<!-- Row 2: Languages | Stats -->
 <table width="100%" cellpadding="10" cellspacing="0" style="margin-bottom:24px;">
 <tr>
-
 <td width="50%" align="center" valign="top"
 style="border-radius:12px;border:1px solid rgba(52,211,153,0.20);
 box-shadow:0 8px 20px rgba(52,211,153,0.10);padding:18px;">
@@ -472,15 +458,11 @@ GitHub Stats
   width="60%"
   alt="GitHub Trophies"/>
 </td>
-
-<!-- LeetCode -->
 <td>
 <div style="margin-top:24px;"></div>
-
 <p style="font-weight:600;color:#60A5FA;font-size:18px;margin-bottom:8px;">
 📈 LeetCode Activity
 </p>
-
 <img
   src="https://leetcard.jacoblin.cool/Satyam_Chaudhary?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=40"
   width="90%"
@@ -490,7 +472,7 @@ GitHub Stats
 </table>
 </div>
 
-<!-- ================ End Stats + Activity ================ -->
+<!--  End Stats -->
 
 
 <br>
@@ -594,21 +576,19 @@ GitHub Stats
 
 <br>
 
-<!-- Epic Quote -->
+<!-- Quote -->
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson&border=true"/>
 
 </div>
 
-<!-- Snake Animation -->
+<!-- footer & Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
-
-<!-- Footer -->
 
 <div align="center">
 
