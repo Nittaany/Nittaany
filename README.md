@@ -1,64 +1,89 @@
 <div align="center">
 
-<!-- ======= Premium Compact Intro Card ======= -->
+<!-- ======= Premium Compact Intro Card (Refined) ======= -->
 <div align="center">
 
 <table cellpadding="10" cellspacing="0" width="90%" style="max-width:980px;">
 <tr>
 
-<!-- Avatar + subtle glow -->
+<!-- Avatar -->
 <td width="18%" valign="middle" align="center">
-  <img src="https://github.com/Nittaany.png" width="120" style="border-radius:50%;border:4px solid rgba(168,85,247,0.16);box-shadow:0 6px 24px rgba(168,85,247,0.10);" alt="Satyam Chaudhary"/>
+  <img src="https://github.com/Nittaany.png" width="120"
+       style="border-radius:50%;
+              border:4px solid rgba(168,85,247,0.18);
+              box-shadow:0 8px 28px rgba(168,85,247,0.12);"
+       alt="Satyam Chaudhary"/>
   <br/>
-  <small style="color:#9CA3AF">SRMIST · Final-year CSE</small>
+  <small style="color:#9CA3AF;letter-spacing:0.3px">
+    SRMIST · Final-year CSE
+  </small>
 </td>
 
-<!-- Name + role + typing micro-animation + one-liner -->
+<!-- Identity -->
 <td valign="middle" align="left" width="56%">
 
-  <h2 style="margin:0 0 6px 0;color:#EDE9FE;">Satyam Chaudhary</h2>
-  <p style="margin:0 0 8px 0;color:#A78BFA;font-weight:600">Full-Stack • Cloud • AI</p>
+  <h1 style="margin:0 0 4px 0;color:#F5F3FF;letter-spacing:0.6px">
+    Satyam Chaudhary
+  </h1>
 
-  <!-- Typing SVG (ASCII-safe separators + repeat) -->
-  <p style="margin:6px 0 4px 0;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=900&repeat=true&color=A855F7&center=true&vCenter=true&width=520&lines=React+%7C+Next.js+%7C+AWS+%7C+Docker+%7C+AI%2FML" alt="tech typing"/>
+  <p style="margin:0 0 6px 0;
+            color:#BFA9FF;
+            font-weight:600;
+            letter-spacing:0.8px">
+    Full-Stack Developer • Cloud Engineer • AI
   </p>
 
+  <!-- Typing -->
+<p style="margin:6px 0 6px 0;">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2600&pause=900&repeat=true&color=A855F7&width=460&lines=React+|+Next.js;AWS+|+Docker;AI%2FML"
+    alt="tech stack typing"
+  />
+</p>
 
-  <!-- Tiny stat chips (adjust numbers if you prefer dynamic widgets) -->
+
+  <!-- Human line -->
+  <p style="margin:2px 0 8px 0;color:#D1C4E9;font-size:14px">
+    I like building things that people actually use.
+  </p>
+
+  <!-- Chips -->
   <p style="margin:6px 0 0 0;">
-      <img src="https://img.shields.io/badge/💼_EXPERIENCE-Fresher-EC4899?style=flat-square&labelColor=1a1b27&logo=briefcase" />
-      <img src="https://img.shields.io/badge/🟢_-Availabe-7C3AED?style=flat-square" alt="available" />
-      <a href="https://linkedin.com/in/SATYAM-c">
-        <img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000" />
-      </a>
-  <a href="https://github.com/Nittaany">
-    <img src="https://img.shields.io/badge/⚡_GITHUB-181717?style=flat-square&logo=github&logoColor=white&labelColor=000000"/>
-  </a>
-      
-  <img src="https://komarev.com/ghpvc/?username=Nittaany&label=👁️+VIEWS&color=blueviolet&style=flat-square&labelColor=1a1b27" />
+    <img src="https://img.shields.io/badge/Experience-Fresher-EC4899?style=flat-square&labelColor=1a1b27"/>
+    <img src="https://img.shields.io/badge/Status-Available-7C3AED?style=flat-square&labelColor=1a1b27"/>
+    <a href="https://linkedin.com/in/SATYAM-c">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000"/>
+    </a>
+    <a href="https://github.com/Nittaany">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=000000"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Nittaany&label=Views&color=blueviolet&style=flat-square&labelColor=1a1b27"/>
   </p>
+
 </td>
 
-<!-- CTA column: small and actionable -->
+<!-- CTA -->
 <td valign="middle" align="center" width="26%">
 
-  <!-- Gradient mini bar (capsule-render) -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=gradient&customColorList=6,11,20&section=footer" width="100%" style="max-width:200px;margin-bottom:8px" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=10&color=gradient&customColorList=6,11,20"
+       width="100%" style="max-width:200px;margin-bottom:10px"/>
 
-  <p style="margin:0 0 6px 0">
+  <p style="margin:0 0 8px 0">
     <a href="mailto:nitantsatyam123@gmail.com">
-      <img src="https://img.shields.io/badge/Email-nitantsatyam123%40gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="email"/>
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
     </a>
   </p>
 
   <p style="margin:6px 0 4px 0">
     <a href="https://satyamchaudhary.com.np">
-      <img src="https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge" alt="portfolio"/>
+      <img src="https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge"/>
     </a>
   </p>
 
-  <p style="margin-top:6px;color:#C7B8F5;font-size:13px"><strong>Available for hire →</strong></p>
+  <p style="margin-top:6px;color:#C7B8F5;font-size:13px">
+    <strong>Open to opportunities →</strong>
+  </p>
+
 </td>
 
 </tr>
@@ -68,35 +93,6 @@
 <!-- ======= End Intro Card ======= -->
 
 
-</br>
-</br>
-
-<!-- CREATIVE Profile Section with Code Terminal -->
-<div align="center">
-
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   $ whoami                                                    ║
-║   > Full-Stack Developer & Cloud Engineer                     ║
-║                                                               ║
-║   $ cat experience.txt                                        ║
-║   > Apollo Tyres (AI/CV) | 1Stop.ai (Backend)                 ║
-║                                                               ║
-║   $ echo $SKILLS                                              ║
-║   > React • Next.js • Node.js • AWS • Docker • AI/ML          ║
-║                                                               ║
-║   $ git status                                                ║
-║   > On branch: main                                           ║
-║   > Status: Open to opportunities                             ║
-║                                                               ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br>
 
 <!-- Animated Tech Stack Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -219,104 +215,106 @@
 <br>
 
 <!-- Creative Projects Section -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- =================== Projects =================== -->
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  FEATURED PROJECTS
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-</h2>
+<h2 align="center">Projects</h2>
 
-<!-- Project Cards Grid -->
-<table>
+<table width="100%" cellpadding="18" cellspacing="0">
 <tr>
-<td width="50%">
 
-<h3 align="center">💰 CashDash</h3>
+<!-- ===== Card 1 ===== -->
+<td width="50%" valign="top"
+style="border:1px solid rgba(168,85,247,0.25);
+border-radius:14px;">
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200"/>
-  
-  **Expense Tracking Ecosystem**
-  
-  `React` `Supabase` `Jenkins` `Docker` `AWS`
-  
-  ⚡ Real-time sync • 🔐 JWT Auth • 📊 Dashboards  
-  🐳 CI/CD Pipeline • ☁️ CloudFront CDN
-  
-  **Impact:** 99.9% uptime • <1s load time
-  
-  [![Code](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github)](https://github.com/Nittaany)
-  [![Demo](https://img.shields.io/badge/Live_Demo-A855F7?style=for-the-badge&logo=vercel)](https://github.com/Nittaany)
-</div>
+<p><strong>CashDash</strong></p>
 
-</td>
-<td width="50%">
+<p style="color:#C7B8F5;">
+Expense tracking platform focused on performance, automation, and reliability.
+</p>
 
-<h3 align="center">♻️ E-Waste Locator</h3>
+<p>
+<code>React</code> <code>Supabase</code> <code>AWS</code> <code>Docker</code> <code>Jenkins</code>
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200"/>
-  
-  **Sustainability Platform**
-  
-  `Next.js` `Firebase` `Google Maps` `Botpress`
-  
-  🗺️ Geo-location • 🤖 AI Chatbot • 📅 Scheduling  
-  🌱 Impact Tracking • 📱 Mobile-responsive
-  
-  **Impact:** 40% accessibility boost • 24/7 AI support
-  
-  [![Code](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github)](https://github.com/Nittaany)
-  [![Demo](https://img.shields.io/badge/Live_Demo-A855F7?style=for-the-badge&logo=vercel)](https://github.com/Nittaany)
-</div>
+<p style="font-size:14px;">
+Real-time sync · Secure auth · CI/CD · CDN delivery
+</p>
+
+<p>
+<strong>Impact:</strong> 99.9% uptime · sub-second loads
+</p>
+
+<a href="https://github.com/Nittaany/CashDash">Code</a> ·
+<a href="https://d3i0gx02p5neni.cloudfront.net/login">Live</a>
 
 </td>
 
-<td width="50%">
+<!-- ===== Card 2 ===== -->
+<td width="50%" valign="top"
+style="border:1px solid rgba(236,72,153,0.25);
+border-radius:14px;">
 
-<h3 align="center">💧 IoT Water System</h3>
+<p><strong>GestureX</strong></p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200"/>
-  
-  **Smart Automation**
-  
-  `Arduino` `C/C++` `IoT` `Sensors`
-  
-  🌊 Level Monitoring • ⚙️ Auto/Manual Control  
-  💾 Data Persistence • 📱 LCD Display
-  
-  **Impact:** 100% overflow prevention • 30% water savings
-  
-  [![Code](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github)](https://github.com/Nittaany)
-  [![Docs](https://img.shields.io/badge/Documentation-A855F7?style=for-the-badge&logo=readme)](https://github.com/Nittaany)
-</div>
+<p style="color:#C7B8F5;">
+Real-time hand gesture interface for computer control and ISL recognition.
+</p>
 
-</td>
-<td width="50%">
+<p>
+<code>Python</code> <code>MediaPipe</code> <code>OpenCV</code> <code>TensorFlow</code>
+</p>
 
-<h3 align="center">🤖 AI Summarizer</h3>
+<p style="font-size:14px;">
+Webcam-based · Low latency · Temporal modeling
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200"/>
-  
-  **NLP Intelligence Platform**
-  
-  `Python` `Transformers` `OCR` `Gradio`
-  
-  📄 Document Parsing • 🧠 AI Summarization  
-  🌐 50+ Languages • 🔊 Text-to-Speech
-  
-  **Impact:** 100+ pages/sec • 90%+ accuracy
-  
-  [![Code](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github)](https://github.com/Nittaany)
-  [![Demo](https://img.shields.io/badge/Try_Demo-A855F7?style=for-the-badge&logo=python)](https://github.com/Nittaany)
-</div>
+<p>
+<strong>Use case:</strong> Accessibility · HCI
+</p>
+
+<a href="https://github.com/Nittaany/Major-Project">Code</a>
 
 </td>
+
 </tr>
 </table>
+<!-- ===== Secondary Projects ===== -->
+<table width="100%" cellpadding="14">
+<tr>
+
+<td width="33%" valign="top"
+style="border:1px solid rgba(255,255,255,0.12);
+border-radius:12px;">
+<strong>E-Waste Locator</strong><br>
+<sub>Next.js · Firebase · Maps</sub><br><br>
+Platform to find certified recycling centers.<br><br>
+<a href="https://github.com/Shantanu993/EVolve_ZENITH_SIH1392">Code</a>
+</td>
+
+<td width="33%" valign="top"
+style="border:1px solid rgba(255,255,255,0.12);
+border-radius:12px;">
+<strong>IoT Water Monitoring</strong><br>
+<sub>Arduino · C/C++</sub><br><br>
+Automated pump control and level monitoring.<br><br>
+<a href="https://github.com/Nittaany/Water-Level-Controller">Code</a>
+</td>
+
+<td width="33%" valign="top"
+style="border:1px solid rgba(255,255,255,0.12);
+border-radius:12px;">
+<strong>AI Text Summarizer</strong><br>
+<sub>Python · Transformers</sub><br><br>
+OCR-based document intelligence system.<br><br>
+<a href="https://github.com/Nittaany/Lingua-Box">Code</a>
+</td>
+
+</tr>
+</table>
+
+<!-- ================= End Projects ================= -->
+
 
 <br>
 
@@ -379,29 +377,121 @@
 <!-- GitHub Stats Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+<h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
   GITHUB ANALYTICS
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-</h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
+</h3>
 
-<div align="center">
+<!-- ================= Stats + Activity ================= -->
 
-<!-- Stats Row 1 -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nittaany&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=EC4899&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nittaany&theme=radical&hide_border=true&background=0d1117&ring=A855F7&fire=EC4899&currStreakLabel=EC4899" alt="Streak Stats"/>
+<div align="center" style="max-width:900px;margin:auto;">
 
-<!-- Stats Row 2 -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nittaany&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=ffffff&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nittaany&bg_color=0d1117&color=ffffff&line=A855F7&point=EC4899&area=true&hide_border=true" alt="Contribution Graph"/>
+<!-- Row 1: Streak | Activity -->
+<table width="100%" cellpadding="10" cellspacing="0" style="margin-bottom:24px;">
+<tr>
 
-<!-- Trophies -->
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=Nittaany&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<td width="50%" align="center" valign="top"
+style="border-radius:12px;border:1px solid rgba(168,85,247,0.20);
+box-shadow:0 8px 20px rgba(168,85,247,0.10);padding:18px;">
+
+<p style="margin:0 0 10px 0;font-weight:600;color:#A78BFA;">
+GitHub Contribution Streak
+</p>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Nittaany&theme=radical&hide_border=true&background=0d1117&ring=A855F7&fire=EC4899&currStreakLabel=EC4899"
+  width="90%"
+  alt="GitHub Streak Stats"/>
+</td>
+
+<td width="50%" align="center" valign="top"
+style="border-radius:12px;border:1px solid rgba(236,72,153,0.20);
+box-shadow:0 8px 20px rgba(236,72,153,0.10);padding:18px;">
+
+<p style="margin:0 0 10px 0;font-weight:600;color:#F472B6;">
+GitHub Activity
+</p>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Nittaany&bg_color=0d1117&color=ffffff&line=A855F7&point=EC4899&area=true&hide_border=true"
+  width="90%"
+  alt="GitHub Activity Graph"/>
+</td>
+
+</tr>
+</table>
+
+<!-- Row 2: Languages | Stats -->
+<table width="100%" cellpadding="10" cellspacing="0" style="margin-bottom:24px;">
+<tr>
+
+<td width="50%" align="center" valign="top"
+style="border-radius:12px;border:1px solid rgba(52,211,153,0.20);
+box-shadow:0 8px 20px rgba(52,211,153,0.10);padding:18px;">
+
+<p style="margin:0 0 10px 0;font-weight:600;color:#34D399;">
+Top Languages
+</p>
+
+<img
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Nittaany&layout=compact&theme=radical&langs_count=8"
+  width="90%"
+  alt="Top Languages"/>
+</td>
+
+<td width="50%" align="center" valign="top"
+style="border-radius:12px;border:1px solid rgba(248,113,113,0.20);
+box-shadow:0 8px 20px rgba(248,113,113,0.10);padding:18px;">
+
+<p style="margin:0 0 10px 0;font-weight:600;color:#F87171;">
+GitHub Stats
+</p>
+
+<img
+  src="https://github-readme-stats-fast.vercel.app/api?username=Nittaany&show_icons=true&theme=radical&hide_border=true"
+  width="90%"
+  alt="GitHub Stats"/>
+</td>
+
+</tr>
+</table>
+
+<!-- Trophies Row -->
+<table width="100%" cellpadding="10" cellspacing="0" style="margin-bottom:24px;">
+<tr>
+  <td width="50%" align="center" valign="top"
+<div style="margin-bottom:18px;"></div>
+
+<p style="font-weight:600;color:#D946EF;font-size:18px;margin-bottom:8px;">
+🏆 GitHub Trophies
+</p>
+
+<img
+  src="https://github-profile-trophy.screw-hand.vercel.app/?username=Nittaany&theme=darkhub&column=2&margin-w=10&margin-h=10&no-bg=true"
+  width="60%"
+  alt="GitHub Trophies"/>
+</td>
 
 <!-- LeetCode -->
-<img src="https://leetcard.jacoblin.cool/Satyam_Chaudhary?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=20" width="45%" alt="LeetCode Stats"/>
+<td>
+<div style="margin-top:24px;"></div>
 
+<p style="font-weight:600;color:#60A5FA;font-size:18px;margin-bottom:8px;">
+📈 LeetCode Activity
+</p>
+
+<img
+  src="https://leetcard.jacoblin.cool/Satyam_Chaudhary?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=40"
+  width="90%"
+  alt="LeetCode Stats"/>
+  </td>
+</tr>
+</table>
 </div>
+
+<!-- ================ End Stats + Activity ================ -->
+
 
 <br>
 
@@ -421,15 +511,15 @@
 ### 🎓 Certifications
 
 <img src="https://img.shields.io/badge/Oracle-Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-
+</br>
 <img src="https://img.shields.io/badge/AWS-ML_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
+</br>
 <img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-
+</br>
 <img src="https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-
+</br>
 <img src="https://img.shields.io/badge/NPTEL-Communication_Networks-00B0FF?style=for-the-badge&logo=google-scholar&logoColor=white" />
-
+</br>
 </td>
 <td width="50%" valign="top">
 
