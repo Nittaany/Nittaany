@@ -1,53 +1,75 @@
 <div align="center">
 
-<!-- EPIC Header  -->
+<!-- ======= Premium Compact Intro Card ======= -->
 <div align="center">
 
-```txt
-Satyam Chaudhary
-Full-Stack • Cloud • AI
-━━━━━━━━━━━━━━━━━━
-Building scalable systems,
-not just projects.
-```
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=1000&color=EC4899&center=true&vCenter=true&width=500&lines=React+%E2%80%A2+Next.js+%E2%80%A2+AWS+%E2%80%A2+Docker+%E2%80%A2+AI%2FML" /> 
+<table cellpadding="10" cellspacing="0" width="90%" style="max-width:980px;">
+<tr>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20&section=footer" width="60%"/>
+<!-- Avatar + subtle glow -->
+<td width="18%" valign="middle" align="center">
+  <img src="https://github.com/Nittaany.png" width="120" style="border-radius:50%;border:4px solid rgba(168,85,247,0.16);box-shadow:0 6px 24px rgba(168,85,247,0.10);" alt="Satyam Chaudhary"/>
+  <br/>
+  <small style="color:#9CA3AF">SRMIST · Final-year CSE</small>
+</td>
 
-<sub>
-Building for real users · Shipping to production
-</sub>
+<!-- Name + role + typing micro-animation + one-liner -->
+<td valign="middle" align="left" width="56%">
 
-</div> 
+  <h2 style="margin:0 0 6px 0;color:#EDE9FE;">Satyam Chaudhary</h2>
+  <p style="margin:0 0 8px 0;color:#A78BFA;font-weight:600">Full-Stack • Cloud • AI</p>
+
+  <!-- Typing SVG (ASCII-safe separators + repeat) -->
+  <p style="margin:6px 0 4px 0;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=900&repeat=true&color=A855F7&center=true&vCenter=true&width=520&lines=React+%7C+Next.js+%7C+AWS+%7C+Docker+%7C+AI%2FML" alt="tech typing"/>
+  </p>
+
+
+  <!-- Tiny stat chips (adjust numbers if you prefer dynamic widgets) -->
+  <p style="margin:6px 0 0 0;">
+      <img src="https://img.shields.io/badge/💼_EXPERIENCE-Fresher-EC4899?style=flat-square&labelColor=1a1b27&logo=briefcase" />
+      <img src="https://img.shields.io/badge/🟢_-Availabe-7C3AED?style=flat-square" alt="available" />
+      <a href="https://linkedin.com/in/SATYAM-c">
+        <img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000" />
+      </a>
+  <a href="https://github.com/Nittaany">
+    <img src="https://img.shields.io/badge/⚡_GITHUB-181717?style=flat-square&logo=github&logoColor=white&labelColor=000000"/>
+  </a>
+      
+  <img src="https://komarev.com/ghpvc/?username=Nittaany&label=👁️+VIEWS&color=blueviolet&style=flat-square&labelColor=1a1b27" />
+  </p>
+</td>
+
+<!-- CTA column: small and actionable -->
+<td valign="middle" align="center" width="26%">
+
+  <!-- Gradient mini bar (capsule-render) -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=gradient&customColorList=6,11,20&section=footer" width="100%" style="max-width:200px;margin-bottom:8px" />
+
+  <p style="margin:0 0 6px 0">
+    <a href="mailto:nitantsatyam123@gmail.com">
+      <img src="https://img.shields.io/badge/Email-nitantsatyam123%40gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="email"/>
+    </a>
+  </p>
+
+  <p style="margin:6px 0 4px 0">
+    <a href="https://satyamchaudhary.com.np">
+      <img src="https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge" alt="portfolio"/>
+    </a>
+  </p>
+
+  <p style="margin-top:6px;color:#C7B8F5;font-size:13px"><strong>Available for hire →</strong></p>
+</td>
+
+</tr>
+</table>
+
+</div>
+<!-- ======= End Intro Card ======= -->
+
 
 </br>
-<!-- Glowing Divider -->
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
-
-<!-- Premium Social Links with Glow -->
-<p align="center">
-  <a href="mailto:nitantsatyam123@gmail.com">
-    <img src="https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="25"/>
-  </a>
-  <a href="https://satyamchaudhary.com.np">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" height="25"/>
-  </a>
-  <a href="https://linkedin.com/in/SATYAM-c">
-    <img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="25"/>
-  </a>
-  <a href="https://github.com/Nittaany">
-    <img src="https://img.shields.io/badge/⚡_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="25"/>
-  </a>
-</p>
-
-<!-- Epic Metrics Bar -->
-<p align="center">
-  <img src="https://img.shields.io/badge/💼_EXPERIENCE-Fresher-EC4899?style=for-the-badge&labelColor=1a1b27&logo=briefcase" height="20"/>
-  <img src="https://img.shields.io/badge/🟢_STATUS-AVAILABLE-00C853?style=for-the-badge&labelColor=1a1b27&logo=statuspage" height="20"/>
-  <img src="https://komarev.com/ghpvc/?username=Nittaany&label=👁️+VIEWS&color=blueviolet&style=for-the-badge&labelColor=1a1b27" height="20"/>
-</p>
-
-<br>
+</br>
 
 <!-- CREATIVE Profile Section with Code Terminal -->
 <div align="center">
