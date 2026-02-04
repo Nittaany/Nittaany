@@ -1,40 +1,50 @@
 <div align="center">
 
-<!-- EPIC Animated Header with Glitch Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,3,4,6&text=SATYAM%20CHAUDHARY&fontSize=90&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Cloud%20Engineer%20%7C%20AI%20Enthusiast&descSize=25&descAlignY=55&descAlign=50"/>
+<!-- EPIC Header  -->
+<div align="center">
 
-</div>
+```txt
+Satyam Chaudhary
+Full-Stack • Cloud • AI
+━━━━━━━━━━━━━━━━━━
+Building scalable systems,
+not just projects.
+```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=1000&color=EC4899&center=true&vCenter=true&width=500&lines=React+%E2%80%A2+Next.js+%E2%80%A2+AWS+%E2%80%A2+Docker+%E2%80%A2+AI%2FML" /> 
 
-<!-- Matrix-Style Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=%E2%9A%A1+BUILDING+SCALABLE+SYSTEMS+THAT+SHIP+%E2%9A%A1;%F0%9F%94%A5+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+AWS+%F0%9F%94%A5;%F0%9F%9A%80+Open+to+Full-Time+%7C+Internships+%7C+PPO+%F0%9F%9A%80" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20&section=footer" width="60%"/>
 
+<sub>
+Building for real users · Shipping to production
+</sub>
+
+</div> 
+
+</br>
 <!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 
 <!-- Premium Social Links with Glow -->
 <p align="center">
   <a href="mailto:nitantsatyam123@gmail.com">
-    <img src="https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="35"/>
+    <img src="https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="25"/>
   </a>
   <a href="https://satyamchaudhary.com.np">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" height="35"/>
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" height="25"/>
   </a>
   <a href="https://linkedin.com/in/SATYAM-c">
-    <img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="35"/>
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="25"/>
   </a>
   <a href="https://github.com/Nittaany">
-    <img src="https://img.shields.io/badge/⚡_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="35"/>
+    <img src="https://img.shields.io/badge/⚡_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="25"/>
   </a>
 </p>
 
 <!-- Epic Metrics Bar -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_CGPA-8.61%2F10-A855F7?style=for-the-badge&labelColor=1a1b27&logo=academia" height="30"/>
-  <img src="https://img.shields.io/badge/💼_EXPERIENCE-2+_YEARS-EC4899?style=for-the-badge&labelColor=1a1b27&logo=briefcase" height="30"/>
-  <img src="https://img.shields.io/badge/🟢_STATUS-AVAILABLE-00C853?style=for-the-badge&labelColor=1a1b27&logo=statuspage" height="30"/>
-  <img src="https://komarev.com/ghpvc/?username=Nittaany&label=👁️+VIEWS&color=blueviolet&style=for-the-badge&labelColor=1a1b27" height="30"/>
+  <img src="https://img.shields.io/badge/💼_EXPERIENCE-Fresher-EC4899?style=for-the-badge&labelColor=1a1b27&logo=briefcase" height="20"/>
+  <img src="https://img.shields.io/badge/🟢_STATUS-AVAILABLE-00C853?style=for-the-badge&labelColor=1a1b27&logo=statuspage" height="20"/>
+  <img src="https://komarev.com/ghpvc/?username=Nittaany&label=👁️+VIEWS&color=blueviolet&style=for-the-badge&labelColor=1a1b27" height="20"/>
 </p>
 
 <br>
@@ -46,18 +56,18 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
 ║   $ whoami                                                    ║
-║   > Full-Stack Developer & Cloud Engineer                    ║
+║   > Full-Stack Developer & Cloud Engineer                     ║
 ║                                                               ║
 ║   $ cat experience.txt                                        ║
-║   > Apollo Tyres (AI/CV) | 1Stop.ai (Backend)                ║
+║   > Apollo Tyres (AI/CV) | 1Stop.ai (Backend)                 ║
 ║                                                               ║
 ║   $ echo $SKILLS                                              ║
-║   > React • Next.js • Node.js • AWS • Docker • AI/ML         ║
+║   > React • Next.js • Node.js • AWS • Docker • AI/ML          ║
 ║                                                               ║
 ║   $ git status                                                ║
 ║   > On branch: main                                           ║
-║   > Status: Open to opportunities                            ║
-║   > Available: Immediate joining                             ║
+║   > Status: Open to opportunities                             ║
+║                                                               ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
