@@ -1,637 +1,502 @@
-<!-- Ultra Premium Animated Header with Custom Gradient -->
 <div align="center">
 
-<!-- Custom SVG Logo Animation -->
-```
-███████╗ █████╗ ████████╗██╗   ██╗ █████╗ ███╗   ███╗
-██╔════╝██╔══██╗╚══██╔══╝╚██╗ ██╔╝██╔══██╗████╗ ████║
-███████╗███████║   ██║    ╚████╔╝ ███████║██╔████╔██║
-╚════██║██╔══██║   ██║     ╚██╔╝  ██╔══██║██║╚██╔╝██║
-███████║██║  ██║   ██║      ██║   ██║  ██║██║ ╚═╝ ██║
-╚══════╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝
-```
+<!-- EPIC Animated Header with Glitch Effect -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,3,4,6&text=SATYAM%20CHAUDHARY&fontSize=90&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Cloud%20Engineer%20%7C%20AI%20Enthusiast&descSize=25&descAlignY=55&descAlign=50"/>
 
 </div>
 
-<!-- Glowing Typing Effect -->
+<!-- Matrix-Style Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=%E2%9A%A1+WEB=DEVELOPER+%E2%9A%A1;%F0%9F%94%A5+Full-Stack+%7C+Cloud+%7C+DevOps+%7C+AI%2FML+%F0%9F%94%A5;%F0%9F%9A%80+Building+The+Future%2C+One+Commit+At+A+Time+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=%E2%9A%A1+BUILDING+SCALABLE+SYSTEMS+THAT+SHIP+%E2%9A%A1;%F0%9F%94%A5+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+AWS+%F0%9F%94%A5;%F0%9F%9A%80+Open+to+Full-Time+%7C+Internships+%7C+PPO+%F0%9F%9A%80" />
 </p>
 
-<!-- Premium Neon Line Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-
-<!-- Professional Contact Bar -->
+<!-- Premium Social Links with Glow -->
 <p align="center">
   <a href="mailto:nitantsatyam123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="35"/>
   </a>
   <a href="https://satyamchaudhary.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" height="35"/>
   </a>
   <a href="https://linkedin.com/in/SATYAM-c">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="35"/>
   </a>
   <a href="https://github.com/Nittaany">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/⚡_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="35"/>
   </a>
 </p>
 
-<!-- Clean Metrics Bar -->
+<!-- Epic Metrics Bar -->
 <p align="center">
-
-  <img src="https://img.shields.io/badge/Status-Available-00C853?style=flat-square&labelColor=1a1b27"/>
-    <!-- <img src="https://img.shields.io/badge/Experience-2+_Years-EC4899?style=flat-square&labelColor=1a1b27"/> -->
-  <img src="https://img.shields.io/badge/Experience-Fresher-EC4899?style=flat-square&labelColor=1a1b27"/>
-  <img src="https://komarev.com/ghpvc/?username=Nittaany&label=Views&color=blueviolet&style=flat-square"/>
+  <img src="https://img.shields.io/badge/🎓_CGPA-8.61%2F10-A855F7?style=for-the-badge&labelColor=1a1b27&logo=academia" height="30"/>
+  <img src="https://img.shields.io/badge/💼_EXPERIENCE-2+_YEARS-EC4899?style=for-the-badge&labelColor=1a1b27&logo=briefcase" height="30"/>
+  <img src="https://img.shields.io/badge/🟢_STATUS-AVAILABLE-00C853?style=for-the-badge&labelColor=1a1b27&logo=statuspage" height="30"/>
+  <img src="https://komarev.com/ghpvc/?username=Nittaany&label=👁️+VIEWS&color=blueviolet&style=for-the-badge&labelColor=1a1b27" height="30"/>
 </p>
-
-
-
-<!-- Cinematic About Section with Code Block -->
-<div align="center">
-
-### < > **whoami** </>
-
-</div>
-
-```javascript
-const satyamChaudhary = {
-  identity: {
-    role: "Full-Stack Web Developer & Cloud Engineer",
-    specialization: ["Web Development", "End-to-End Systems", "DevOps Automation", "AI/ML Integration"],
-  },
-  
-  education: {
-    degree: "B.Tech Computer Science & Engineering",
-    institution: "SRM Institute of Science & Technology",
-    performance: "8.61/10 CGPA",
-    timeline: "2022 → 2026",
-  },
-  
-  expertise: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "Laravel", "RESTful APIs"],
-    cloud: ["AWS (S3, CloudFront)", "Docker", "Jenkins", "Terraform"],
-    databases: ["MySQL", "Firebase", "Supabase", "MongoDB"],
-    aiml: ["TensorFlow", "PyTorch", "OpenCV", "Transformers"],
-    devops: ["CI/CD Pipelines", "Infrastructure as Code", "Container Orchestration"]
-  },
-  
-  availability: {
-    roles: ["Software Development Engineer", "Full-Stack Developer", "DevOps Engineer"],
-    openTo: ["Full-Time", "Internship", "PPO Opportunities"],
-    joining: "Immediate",
-    relocation: "Anywhere",
-  },
-  
-  contact: {
-    email: "nitantsatyam123@gmail.com",
-    portfolio: "https://satyamchaudhary.com.np",
-  }
-};
-
-// Execute mission
-satyamChaudhary.deploy();
-```
-
-<div align="center">
-
-### 🎯 **CORE CAPABILITIES**
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
-<b>Full-Stack Mastery</b><br>
-<sub>React • Next.js • Node.js • Express</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHIwdnVtbG11cjdiYnM2cGlueHI2NGV0eHFqd2UzcWR6ODNwY21oMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7ZeqkYTvaL3lGjCw/giphy.gif" width="80"><br>
-<b>Cloud & DevOps</b><br>
-<sub>AWS • Docker • Jenkins • Terraform</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="80"><br>
-<b>AI/ML Engineering</b><br>
-<sub>Computer Vision • NLP • Deep Learning</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
-<b>System Architecture</b><br>
-<sub>Scalability • Performance • Security</sub>
-</td>
-</tr>
-</table>
-</div>
-
-
-<!-- Premium Neon Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Tech Arsenal - Military Grade Display -->
-<div align="center">
-
-## 🛡️ **TECH ARSENAL** // `PRODUCTION.READY`
-
-</div>
-
-<div align="center">
-
-### ⚙️ CORE ENGINEERING
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,php&theme=dark&perline=14" /><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,django,flask&theme=dark&perline=14" />
-
-### 🎨 INTERFACE ARCHITECTURE
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,sass,figma&theme=dark&perline=14" />
-
-### 🗄️ DATA INFRASTRUCTURE
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgres,redis&theme=dark&perline=14" />
-
-### ☁️ CLOUD & DEPLOYMENT
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,terraform,ansible,nginx&theme=dark&perline=14" />
-
-### 🤖 AI/ML TOOLKIT
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=14" />
-
-### 🔧 DEVELOPER TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,vercel,netlify&theme=dark&perline=14" />
-
-</div>
-
----
-
-<!-- Neon Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Portfolio Showcase - Museum Quality -->
-<div align="center">
-
-## 🏆 **PORTFOLIO** // `PRODUCTION.DEPLOYED`
-
-<!-- Featured Projects Section -->
-<div align="center">
-
-## 🚀 Featured Projects
-
-</div>
-
-<!-- Project 1: CashDash -->
-<details open>
-<summary>
-  <b>💰 CashDash – Expense Tracking System</b>
-  <br>
-  <code>React</code> <code>Supabase</code> <code>Jenkins</code> <code>Docker</code> <code>AWS</code>
-</summary>
 
 <br>
 
+<!-- CREATIVE Profile Section with Code Terminal -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-</div>
-
-### Overview
-Production-ready expense management platform with real-time sync, automated deployment, and global CDN delivery.
-
-### Key Features
-- 🔐 Secure JWT authentication with Supabase
-- ⚡ Real-time expense tracking and analytics
-- 📊 Interactive dashboards with data visualization
-- 📧 Automated email notifications
-- 📥 CSV export functionality
-- 🎨 Responsive React UI with Tailwind CSS
-
-### Infrastructure
-- 🐳 **CI/CD**: Jenkins pipeline with Docker containerization
-- ☁️ **Hosting**: AWS S3 for static hosting
-- 🌐 **CDN**: CloudFront for global content delivery
-- 📈 **Performance**: Sub-second page load times
-
-### Impact
-- 99.9% uptime with automated deployments
-- Reduced manual expense tracking time by 70%
-- Serving users with <1s load time globally
-
-<div align="center">
-
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nittaany)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Nittaany)
-
-</div>
-
-</details>
-
-<!-- Project 2: E-Waste Locator -->
-<details>
-<summary>
-  <b>♻️ E-Waste Facility Locator</b>
-  <br>
-  <code>Next.js</code> <code>Firebase</code> <code>Google Maps API</code> <code>Botpress</code>
-</summary>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
-</div>
-
-### Overview
-Sustainability-focused platform connecting users with certified e-waste recycling centers through intelligent geo-location.
-
-### Key Features
-- 🗺️ Google Maps integration for facility mapping
-- 🤖 AI chatbot for user assistance (Botpress)
-- 📍 Real-time geo-location tracking
-- 📅 Automated pickup scheduling
-- 🌱 Environmental impact tracking
-- 📱 Mobile-responsive Next.js interface
-
-### Technology
-- **Frontend**: Next.js with Tailwind CSS
-- **Backend**: Firebase Firestore
-- **APIs**: Google Maps, Places, Geocoding
-- **AI**: Botpress conversational AI
-- **Deployment**: Vercel edge network
-
-### Impact
-- Increased e-waste recycling accessibility by 40%
-- 24/7 AI-powered user support
-- City-wide facility coverage
-
-<div align="center">
-
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nittaany)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Nittaany)
-
-</div>
-
-</details>
-
-<!-- Project 3: IoT Water System -->
-<details>
-<summary>
-  <b>💧 IoT Water Monitoring System</b>
-  <br>
-  <code>Arduino</code> <code>C/C++</code> <code>IoT</code> <code>Embedded Systems</code>
-</summary>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400">
-</div>
-
-### Overview
-Intelligent IoT automation for real-time water level monitoring and smart pump control, preventing overflow and optimizing resource usage.
-
-### Key Features
-- 🌊 Ultrasonic sensor-based water level detection
-- ⚙️ Automatic/Manual motor control modes
-- 💾 EEPROM data persistence
-- 📱 I2C LCD real-time display
-- 🔔 Alert system for critical levels
-- 🔋 Energy-efficient operation
-
-### Hardware & Software
-- **Microcontroller**: Arduino Uno
-- **Sensors**: Ultrasonic distance sensor
-- **Display**: I2C LCD module
-- **Storage**: EEPROM for data logging
-- **Programming**: C/C++ with Arduino libraries
-
-### Impact
-- 100% overflow prevention accuracy
-- 30% reduction in water wastage
-- Automated motor protection system
-
-<div align="center">
-
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nittaany)
-[![Documentation](https://img.shields.io/badge/Documentation-A855F7?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Nittaany)
-
-</div>
-
-</details>
-
-<!-- Project 4: AI Summarizer -->
-<details>
-<summary>
-  <b>🤖 AI Text Summarizer & Voice Assistant</b>
-  <br>
-  <code>Python</code> <code>Transformers</code> <code>NLP</code> <code>OCR</code>
-</summary>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
-</div>
-
-### Overview
-AI-powered document intelligence platform with text extraction, summarization, translation, and voice synthesis capabilities.
-
-### Key Features
-- 📄 Multi-format document parsing (PDF, images)
-- 🔍 OCR text extraction (Tesseract)
-- 🧠 AI-powered summarization (Transformers)
-- 🌐 Multi-language translation (50+ languages)
-- 🔊 Natural text-to-speech synthesis
-- 🎨 Interactive Gradio web interface
-
-### AI Pipeline
-- **NLP**: Hugging Face Transformers (BERT-based)
-- **OCR**: Tesseract + pdfplumber
-- **Translation**: Deep Translator
-- **TTS**: Google Text-to-Speech (gTTS)
-- **Interface**: Gradio for web deployment
-
-### Impact
-- Processes 100+ page documents in seconds
-- Supports 50+ languages
-- 90%+ summarization accuracy
-
-<div align="center">
-
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nittaany)
-[![Try Demo](https://img.shields.io/badge/Try_Demo-A855F7?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Nittaany)
-
-</div>
-
-</details>
-
-<!-- Neon Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Professional Experience - Corporate Grade -->
-<div align="center">
-
-## 💼 **PROFESSIONAL JOURNEY** // `IMPACT.DRIVEN`
-
-</div>
-
-### 🏢 **Apollo Tyres Ltd** • Project Intern (Remote)
-**📅 Mar 2025 – Jul 2025** | **🌍 Global R&D Division**
-
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
-
-```yaml
-Role: AI/Computer Vision Engineer
-Mission: Automated Tyre Tread Analysis System
-
-Achievements:
-  - 🤖 Developed production-grade CV prototype
-  - 📊 Extracted tread metrics (land-sea ratio, blocks, sipes)
-  - 🎨 Applied Generative AI for design automation
-  - 🔬 Collaborated with global R&D scientists
-  - ⚡ Accelerated quality evaluation workflows
-
-Tech Stack:
-  - Python • OpenCV • TensorFlow
-  - Computer Vision • Deep Learning
-  - Generative AI • Image Processing
-
-Impact: Automated quality control pipeline
-        reducing manual analysis time by 70%
-```
-
-<br clear="right"/>
-
----
-
-### 💻 **1Stop.ai** • Backend Development Intern (Remote)
-**📅 Oct 2024 – Dec 2024** | **🌐 SaaS Platform**
-
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
-
-```yaml
-Role: Full-Stack Backend Engineer
-Mission: Scalable Web Application Development
-
-Achievements:
-  - ⚡ Reduced API response time by 15%
-  - 🏗️ Built MVC-based backend architecture
-  - 🔐 Implemented secure authentication systems
-  - 📊 Developed Task Manager & Hotel Management apps
-  - 🧪 Conducted comprehensive testing & debugging
-
-Tech Stack:
-  - PHP • Laravel • MySQL
-  - RESTful APIs • MVC Pattern
-  - Postman • Git
-
-Impact: Delivered 3 production-ready applications
-        with enterprise-grade security
-```
-
-<br clear="right"/>
-
----
-
-<!-- Neon Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- GitHub Analytics - Command Center Style -->
-<div align="center">
-
-## 📊 **ANALYTICS CENTER** // `PERFORMANCE.METRICS`
-
-</div>
-
-<!-- Primary Stats Row -->
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nittaany&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF2E97&text_color=FFFFFF&ring_color=00D9FF&fire=FF2E97&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B949E&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Statistics" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nittaany&theme=tokyonight&hide_border=true&background=1a1b27&ring=A855F7&fire=EC4899&currStreakLabel=EC4899&sideNums=ffffff&currStreakNum=ffffff&dates=8B949E&sideLabels=8B949E" />
-</p>
-  
-<!-- Language Distribution & Activity Graph -->
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nittaany&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&custom_title=💻%20Code%20Distribution" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nittaany&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=FF2E97&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity" />
-</p>
-
-<!-- Profile Summary Cards -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nittaany&theme=github_dark" width="96%" />
-</p>
-
-<!-- Trophy Showcase -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nittaany&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage" />
-</p>
-
-<!-- LeetCode Stats -->
-<div align="center">
-
-### 🎯 **COMPETITIVE CODING**
-
-<!-- LeetCode Stats -->
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Satyam_Chaudhary?theme=dark&font=JetBrains%20Mono&ext=contest" width="45%" />
-</p>
-
-
-</div>
-
----
-
-<!-- Neon Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Credentials & Achievements -->
-<div align="center">
-
-## 🏆 **CREDENTIALS** // `VERIFIED.CERTIFIED`
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 **CERTIFICATIONS**
-
-<img src="https://img.shields.io/badge/Oracle-Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=000000"/>
-
-<img src="https://img.shields.io/badge/AWS-ML_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=000000"/>
-
-<img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=000000"/>
-
-<img src="https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=000000"/>
-
-<img src="https://img.shields.io/badge/NPTEL-Communication_Networks-00B0FF?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=000000"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 👔 **LEADERSHIP IMPACT**
-
-**🎯 Vice Secretary** • *Futurix, C.Tech Association*
-```
-Organized: ULTRON 8.0 Hackathon
-Scale: 2500+ participants
-Events: 5+ large-scale technical events
-Growth: 40%+ engagement increase
-```
-
-**💡 Technical Member** • *CSI SRM & Aaruush*
-```
-Domain: Frontend Development & UI/UX
-Role: Mentor & Technical Guide
-Impact: Junior developer training
-Contribution: Internal tools & workshops
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- Neon Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Contact Matrix - Ultra Premium -->
-<div align="center">
-
-## 📡 **ESTABLISH CONNECTION** // `COMM.LINK`
-
-<img src="https://user-images.githubusercontent.com/74038190/216122003-15d7c87e-f3de-4b36-a3c0-3b27cc2e3587.png" width="600">
-
-</div>
 
 ```ascii
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   🎯  ACTIVELY SEEKING OPPORTUNITIES                            ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━    ║
-║                                                                  ║
-║   Roles:       Full-Time SDE │ Internship │ PPO                 ║
-║   Joining:     Immediate                                        ║
-║   Relocation:  Anywhere in India/Global                         ║
-║   Status:      🟢 Available                                     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   $ whoami                                                    ║
+║   > Full-Stack Developer & Cloud Engineer                    ║
+║                                                               ║
+║   $ cat experience.txt                                        ║
+║   > Apollo Tyres (AI/CV) | 1Stop.ai (Backend)                ║
+║                                                               ║
+║   $ echo $SKILLS                                              ║
+║   > React • Next.js • Node.js • AWS • Docker • AI/ML         ║
+║                                                               ║
+║   $ git status                                                ║
+║   > On branch: main                                           ║
+║   > Status: Open to opportunities                            ║
+║   > Available: Immediate joining                             ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
-<!-- Contact Section - Clean and Working -->
-<div align="center">
-
-## 📫 Let's Connect
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
-
-**Actively seeking Full-Time SDE roles and Internship opportunities**
-
 </div>
+
+<br>
+
+<!-- Animated Tech Stack Section -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  TECH ARSENAL
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+</h2>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="225">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="48"><br>
-<b>Email</b><br>
-<a href="mailto:nitantsatyam123@gmail.com">nitantsatyam123@gmail.com</a>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+  <br>JavaScript
 </td>
-<td align="center" width="225">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdvOGo5NGdwcWI0MnkycWNvMHBvZ2JsdWtvazF1dmtjcmY1NnB2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Kf4K0lSkfgQEIftT4N/giphy.gif" width="48"><br>
-<b>Portfolio</b><br>
-<a href="https://satyamchaudhary.com.np">satyamchaudhary.com.np</a>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+  <br>TypeScript
 </td>
-<td align="center" width="225">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="48"><br>
-<b>LinkedIn</b><br>
-<a href="https://linkedin.com/in/SATYAM-c">linkedin.com/in/SATYAM-c</a>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  <br>Python
 </td>
-<td align="center" width="225">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="48"><br>
-<b>GitHub</b><br>
-<a href="https://github.com/Nittaany">github.com/Nittaany</a>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+  <br>React
 </td>
-
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+  <br>Next.js
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  <br>Node.js
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+  <br>Express
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+  <br>Tailwind
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+  <br>AWS
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  <br>Docker
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+  <br>Kubernetes
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+  <br>Jenkins
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+  <br>Terraform
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+  <br>MySQL
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+  <br>MongoDB
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+  <br>Firebase
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+  <br>TensorFlow
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+  <br>PyTorch
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+  <br>OpenCV
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+  <br>Laravel
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <br>Git
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  <br>GitHub
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+  <br>VS Code
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+  <br>Postman
+</td>
 </tr>
 </table>
 
 </div>
 
+<br>
 
-<!-- Inspirational Quote -->
+<!-- Creative Projects Section -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  FEATURED PROJECTS
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
+
+<!-- Project Cards Grid -->
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">💰 CashDash</h3>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200"/>
+  
+  **Expense Tracking Ecosystem**
+  
+  `React` `Supabase` `Jenkins` `Docker` `AWS`
+  
+  ⚡ Real-time sync • 🔐 JWT Auth • 📊 Dashboards  
+  🐳 CI/CD Pipeline • ☁️ CloudFront CDN
+  
+  **Impact:** 99.9% uptime • <1s load time
+  
+  [![Code](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github)](https://github.com/Nittaany)
+  [![Demo](https://img.shields.io/badge/Live_Demo-A855F7?style=for-the-badge&logo=vercel)](https://github.com/Nittaany)
+</div>
+
+</td>
+<td width="50%">
+
+<h3 align="center">♻️ E-Waste Locator</h3>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200"/>
+  
+  **Sustainability Platform**
+  
+  `Next.js` `Firebase` `Google Maps` `Botpress`
+  
+  🗺️ Geo-location • 🤖 AI Chatbot • 📅 Scheduling  
+  🌱 Impact Tracking • 📱 Mobile-responsive
+  
+  **Impact:** 40% accessibility boost • 24/7 AI support
+  
+  [![Code](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github)](https://github.com/Nittaany)
+  [![Demo](https://img.shields.io/badge/Live_Demo-A855F7?style=for-the-badge&logo=vercel)](https://github.com/Nittaany)
+</div>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">💧 IoT Water System</h3>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200"/>
+  
+  **Smart Automation**
+  
+  `Arduino` `C/C++` `IoT` `Sensors`
+  
+  🌊 Level Monitoring • ⚙️ Auto/Manual Control  
+  💾 Data Persistence • 📱 LCD Display
+  
+  **Impact:** 100% overflow prevention • 30% water savings
+  
+  [![Code](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github)](https://github.com/Nittaany)
+  [![Docs](https://img.shields.io/badge/Documentation-A855F7?style=for-the-badge&logo=readme)](https://github.com/Nittaany)
+</div>
+
+</td>
+<td width="50%">
+
+<h3 align="center">🤖 AI Summarizer</h3>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200"/>
+  
+  **NLP Intelligence Platform**
+  
+  `Python` `Transformers` `OCR` `Gradio`
+  
+  📄 Document Parsing • 🧠 AI Summarization  
+  🌐 50+ Languages • 🔊 Text-to-Speech
+  
+  **Impact:** 100+ pages/sec • 90%+ accuracy
+  
+  [![Code](https://img.shields.io/badge/View_Code-000?style=for-the-badge&logo=github)](https://github.com/Nittaany)
+  [![Demo](https://img.shields.io/badge/Try_Demo-A855F7?style=for-the-badge&logo=python)](https://github.com/Nittaany)
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Experience Section with Cards -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  PROFESSIONAL JOURNEY
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Apollo Tyres Ltd
+**Project Intern (Remote)**  
+📅 Mar 2025 – Jul 2025
+
+<img align="right" width="150" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
+
+🤖 AI/Computer Vision Engineer  
+🌍 Global R&D Division
+
+**Achievements:**
+- Developed production CV prototype
+- Extracted tread metrics using ML
+- Applied Generative AI techniques
+- 70% reduction in analysis time
+
+**Stack:** `Python` `OpenCV` `TensorFlow` `CV`
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 1Stop.ai
+**Backend Developer Intern (Remote)**  
+📅 Oct 2024 – Dec 2024
+
+<img align="right" width="150" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+
+⚡ Full-Stack Backend Engineer  
+🌐 SaaS Platform
+
+**Achievements:**
+- Built Task Manager & Hotel apps
+- 15% API response improvement
+- Implemented secure auth systems
+- 3 production apps delivered
+
+**Stack:** `PHP` `Laravel` `MySQL` `APIs`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- GitHub Stats Section -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  GITHUB ANALYTICS
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
+
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs&border=true&bg_color=0D1117&quote_color=00D9FF&author_color=FFFFFF" width="80%"/>
+<!-- Stats Row 1 -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nittaany&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=EC4899&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nittaany&theme=radical&hide_border=true&background=0d1117&ring=A855F7&fire=EC4899&currStreakLabel=EC4899" alt="Streak Stats"/>
+
+<!-- Stats Row 2 -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nittaany&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nittaany&bg_color=0d1117&color=ffffff&line=A855F7&point=EC4899&area=true&hide_border=true" alt="Contribution Graph"/>
+
+<!-- Trophies -->
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=Nittaany&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
+<!-- LeetCode -->
+<img src="https://leetcard.jacoblin.cool/Satyam_Chaudhary?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=20" width="45%" alt="LeetCode Stats"/>
+
+</div>
+
+<br>
+
+<!-- Certifications & Leadership -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  ACHIEVEMENTS
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Certifications
+
+<img src="https://img.shields.io/badge/Oracle-Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+<img src="https://img.shields.io/badge/AWS-ML_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+<img src="https://img.shields.io/badge/NPTEL-Communication_Networks-00B0FF?style=for-the-badge&logo=google-scholar&logoColor=white" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 Leadership
+
+**🎯 Vice Secretary**  
+*Futurix, C.Tech Association*
+
+✨ Organized ULTRON 8.0 Hackathon  
+👥 Managed 2500+ participants  
+📈 40% engagement increase  
+🎪 5+ large-scale events
+
+**💡 Technical Member**  
+*CSI SRM & Aaruush*
+
+👨‍🏫 Mentored juniors in dev  
+🛠️ Built internal tools  
+🎓 Led workshops & hackathons
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Contact Section -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  LET'S CONNECT
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+</h2>
+
+<div align="center">
+
+**🎯 Actively seeking Full-Time SDE roles | Internships | PPO opportunities**
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" width="50" height="50"/><br>
+<strong>Email</strong> </br> 
+<a href="mailto:nitantsatyam123@gmail.com">nitantsatyam123@gmail.com</a>
+</td>
+<td align="center" >
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdvOGo5NGdwcWI0MnkycWNvMHBvZ2JsdWtvazF1dmtjcmY1NnB2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Kf4K0lSkfgQEIftT4N/giphy.gif" width="50" height="50"/><br>
+<strong>Portfolio</strong> </br> 
+<a href="https://satyamchaudhary.com.np">satyamchaudhary.com.np</a>
+</td>
+<td align="center" >
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="50" height="50"/><br>
+<strong>LinkedIn</strong> </br> 
+<a href="https://linkedin.com/in/SATYAM-c">linkedin.com/in/SATYAM-c</a>
+</td>
+<td align="center">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="50" height="50"/><br>
+<strong>GitHub</strong> </br> 
+<a href="https://github.com/Nittaany">github.com/Nittaany</a>
+</td>
+</tr>
+</table>
+
+<br>
+
+ **🚀 Available Immediately** • **🌍 Open to Relocation**
+
+</div>
+
+<br>
+
+<!-- Epic Quote -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson&border=true"/>
 
 </div>
 
 <!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
+<!-- Footer -->
 
 <div align="center">
 
-<!-- Badge Collection -->
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
-</p>
+### ⭐ Star repos you find interesting • 🤝 Open to collaboration
 
+<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 
-### **Thanks for visiting! Let's create something extraordinary together.** 🚀✨
+**© 2025 Satyam Chaudhary • Crafted with ⚡ and 💜**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-
-**© 2025 Satyam Chaudhary • Crafted with precision and passion**
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"/>
 
 </div>
-
