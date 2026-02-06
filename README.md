@@ -6,18 +6,6 @@
 <table cellpadding="10" cellspacing="0" width="90%" style="max-width:980px;">
 <tr>
 
-<!-- Avatar -->
-<td width="18%" valign="middle" align="center">
-  <img src="https://github.com/Nittaany.png" width="120"
-       style="border-radius:50%;
-              border:4px solid rgba(168,85,247,0.18);
-              box-shadow:0 8px 28px rgba(168,85,247,0.12);"
-       alt="Satyam Chaudhary"/>
-  <br/>
-  <small style="color:#9CA3AF;letter-spacing:0.3px">
-    SRMIST · Final-year CSE
-  </small>
-</td>
 
 <!-- Identity -->
 <td valign="middle" align="left" width="56%">
@@ -331,41 +319,25 @@ OCR-based document intelligence system.<br><br>
 <table>
 <tr>
 <td width="50%" valign="top">
+<img src="https://sdvpl1b3ic9gmobr.public.blob.vercel-storage.com/github/ae5aa5f2cd09300b3bbe3a4816e3704a.jpg" style="width:70px"/>
 
 ### 🏢 Apollo Tyres Ltd
 **Project Intern (Remote)**  
 📅 Mar 2025 – Jul 2025
 
-<img align="right" width="150" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
-
-🤖 AI/Computer Vision Engineer  
-🌍 Global R&D Division
-
-**Achievements:**
-- Developed production CV prototype
-- Extracted tread metrics using ML
-- Applied Generative AI techniques
-- 70% reduction in analysis time
+- Developed image processing tool prototype
 
 **Stack:** `Python` `OpenCV` `TensorFlow` `CV`
 
 </td>
 <td width="50%" valign="top">
+<img src="https://sdvpl1b3ic9gmobr.public.blob.vercel-storage.com/github/1stop_ai_logo.jpeg" style="width:70px"/>
 
 ### 💻 1Stop.ai
 **Backend Developer Intern (Remote)**  
 📅 Oct 2024 – Dec 2024
 
-<img align="right" width="150" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
-
-⚡ Full-Stack Backend Engineer  
-🌐 SaaS Platform
-
-**Achievements:**
-- Built Task Manager & Hotel apps
-- 15% API response improvement
-- Implemented secure auth systems
-- 3 production apps delivered
+-  Full-stack apps delivered with 15% API response improvement
 
 **Stack:** `PHP` `Laravel` `MySQL` `APIs`
 
